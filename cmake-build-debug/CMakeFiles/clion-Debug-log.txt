@@ -1,0 +1,125 @@
+/snap/clion/341/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/341/bin/ninja/linux/x64/ninja -DCMAKE_TOOLCHAIN_FILE=/home/tuana/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja -S /home/tuana/CLionProjects/untitled9 -B /home/tuana/CLionProjects/untitled9/cmake-build-debug
+CMake Deprecation Warning at /home/tuana/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake:40 (cmake_policy):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /snap/clion/341/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:146 (include)
+  CMakeLists.txt:2 (project)
+
+
+CMake Deprecation Warning at /home/tuana/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake:878 (cmake_policy):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /snap/clion/341/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:146 (include)
+  CMakeLists.txt:2 (project)
+
+
+CMake Deprecation Warning at /home/tuana/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake:40 (cmake_policy):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  cmake-build-debug/CMakeFiles/3.31.6/CMakeSystem.cmake:6 (include)
+  CMakeLists.txt:2 (project)
+
+
+-- The C compiler identification is GNU 13.2.0
+-- The CXX compiler identification is GNU 13.2.0
+-- Detecting C compiler ABI info
+CMake Deprecation Warning at /home/tuana/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake:40 (cmake_policy):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /home/tuana/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.31.6/CMakeSystem.cmake:6 (include)
+  /home/tuana/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-HWcdFk/CMakeLists.txt:2 (project)
+
+
+CMake Deprecation Warning at /home/tuana/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake:878 (cmake_policy):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /home/tuana/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.31.6/CMakeSystem.cmake:6 (include)
+  /home/tuana/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-HWcdFk/CMakeLists.txt:2 (project)
+
+
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+CMake Deprecation Warning at /home/tuana/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake:40 (cmake_policy):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /home/tuana/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.31.6/CMakeSystem.cmake:6 (include)
+  /home/tuana/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-UqnuXL/CMakeLists.txt:2 (project)
+
+
+CMake Deprecation Warning at /home/tuana/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake:878 (cmake_policy):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /home/tuana/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.31.6/CMakeSystem.cmake:6 (include)
+  /home/tuana/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-UqnuXL/CMakeLists.txt:2 (project)
+
+
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Deprecation Warning at /home/tuana/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake:40 (cmake_policy):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /home/tuana/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.31.6/CMakeSystem.cmake:6 (include)
+  /home/tuana/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-A1rnpU/CMakeLists.txt:3 (project)
+
+
+CMake Deprecation Warning at /home/tuana/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake:878 (cmake_policy):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /home/tuana/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/3.31.6/CMakeSystem.cmake:6 (include)
+  /home/tuana/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-A1rnpU/CMakeLists.txt:3 (project)
+
+
+-- Found asio: /home/tuana/.vcpkg-clion/vcpkg/installed/x64-linux/include
+-- Configuring done (1.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/tuana/CLionProjects/untitled9/cmake-build-debug
